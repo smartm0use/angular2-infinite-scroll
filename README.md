@@ -6,7 +6,7 @@ Bare bones infinite scroll directive for Angular 2
 
 First, import the InfiniteScroll directive to your module:
 
-```typescript
+```javascript
 import {InfiniteScroll} from '../directives/fit-text';
 ...
 @NgModule({
@@ -19,7 +19,7 @@ import {InfiniteScroll} from '../directives/fit-text';
 
 Then you it in a component:
 
-```typescript
+```javascript
 import { Component } from '@angular/core';
 
 @Component({
@@ -39,7 +39,7 @@ export class AppComponent {
 
 Add an optional offset, to trigger EventEmitter before reaching the bottom.
 
-```typescript
+```javascript
 <div [infiniteScroll]=400
   (onScroll)="onScroll()">
   ...
