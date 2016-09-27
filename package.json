@@ -1,0 +1,25 @@
+{
+  "name": "angular2-infinite-scroll",
+  "version": "0.1.0",
+  "description": "Bare bones infinite scroll directive for Angular 2",
+  "main": "infinite-scroll.directive.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorango/angular2-infinite-scroll.git"
+  },
+  "keywords": [
+    "angular2",
+    "typescript",
+    "infinite",
+    "scroll"
+  ],
+  "author": "gorango",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gorango/angular2-infinite-scroll/issues"
+  },
+  "homepage": "https://github.com/gorango/angular2-infinite-scroll#readme",
+  "dependencies": {
+    "@angular/core": "2.0.0"
+  }
+}
