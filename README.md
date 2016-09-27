@@ -1,6 +1,6 @@
 # Angular 2 Infinite Scroll Directive
 
-Bare bones infinite scroll directive for Angular 2
+Bare bones infinite scroll directive for Angular 2. No other vendor deps.
 
 ## Usage
 
